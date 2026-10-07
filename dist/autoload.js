@@ -1,38 +1,38 @@
 /*!
- * Live2D Widget
+ * Live2D Widget* Live2D 小部件
  * https://github.com/stevenjoezhang/live2d-widget
  */
 
-// Recommended to use absolute path for live2d_path parameter
-// live2d_path 参数建议使用绝对路径
-const live2d_path = 'https://fastly.jsdelivr.net/npm/live2d-widgets@1.0.1/dist/';
+// Recommended to use absolute path for live2d_path parameter// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径
+// live2d_path 参数建议使用绝对路径// 建议使用 live2d_path 参数的绝对路径
+const live2d_path = 'https://fastly.jsdelivr.net/gh/fkyh404/live2d-static-api@latest/';
 // const live2d_path = '/dist/';
 
-// Method to encapsulate asynchronous resource loading
+// Method to encapsulate asynchronous resource loading// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法
 // 封装异步加载资源的方法
-function loadExternalResource(url, type) {
-  return new Promise((resolve, reject) => {
-    let tag;
+function loadExternalResource(url, type) {函数 loadExternalResource(url, type类型) {函数 loadExternalResource加载外部资源(url网址, type类型) {函数loadExternalResource(url网址, type类型) {
+  return返回 new新 Promise承诺((resolve解决, reject拒绝) => {返回 新 Promise((resolve, reject) => {
+    let tag;让 标签;
 
-    if (type === 'css') {
-      tag = document.createElement('link');
-      tag.rel = 'stylesheet';
-      tag.href = url;
+    if (type类型 === 'css') {
+      tag = document.createElement('link');标签 = document.createElement('link');标签 = 文档.创建元素('链接');标签 = 文档.createElement('链接');
+      tag标签.rel关系 = 'stylesheet'“样式表”;标签.rel = 'stylesheet';
+      tag.href = url;标签.href = 网址;标签.href = url;标签.href = 网址;
     }
     else if (type === 'js') {
       tag = document.createElement('script');
       tag.type = 'module';
-      tag.src = url;
+      tag.src = url;标签.属性 = 网址;
     }
-    if (tag) {
-      tag.onload = () => resolve(url);
-      tag.onerror = () => reject(url);
-      document.head.appendChild(tag);
+    if (tag) {如果 (标签) {如果 (标签) {如果 (标签) {
+      tag.onload = () => resolve(url);标签.加载时 = () => 解析(网址);
+      tag.onerror = () => reject(url);标签.onerror错误时 = () => reject拒绝(url网址);
+      document.head.appendChild(tag);文档.头部.appendChild(标签);文档头部标签
     }
   });
 }
 
-(async () => {
+(async () => {(异步 () => {
   // If you are concerned about display issues on mobile devices, you can use screen.width to determine whether to load
   // 如果担心手机上显示效果不佳，可以根据屏幕宽度来判断是否加载
   // if (screen.width < 768) return;
