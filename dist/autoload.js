@@ -1,23 +1,23 @@
 /*!
- * Live2D Widget* Live2D 小部件
+ * Live2D Widget* Live2D 小部件* Live2D 小部件* Live2D 小部件
  * https://github.com/stevenjoezhang/live2d-widget
  */
 
-// Recommended to use absolute path for live2d_path parameter// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径
-// live2d_path 参数建议使用绝对路径// 建议使用 live2d_path 参数的绝对路径
-const live2d_path = 'https://fastly.jsdelivr.net/gh/fkyh404/live2d-static-api@latest/';
+// Recommended to use absolute path for live2d_path parameter// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path......// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议......// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径// 建议为 live2d_path 参数使用绝对路径
+// live2d_path 参数建议使用绝对路径// 建议使用 live2d_path 参数的绝对路径// 建议使用 live2d_path 参数的绝对路径// 建议使用 live2d_path 参数的绝对路径// 建议使用 live2d_path 参数的绝对路径// 建议使用 live2d_path 参数的绝对路径// 建议使用 live2d_path 参数的绝对路径// 建议使用 live2d_path 参数的绝对路径// 建议使用 live2d_path 参数的绝对路径// 建议使用 live2d_path 参数的绝对路径// 建议使用 live2d_path 参数的绝对路径// 建议使用 live2d_path 参数的绝对路径// 建议使用 live2d_path 参数的绝对路径// 建议使用 live2d_path 参数的绝对路径// 建议使用 live2d_path 参数的绝对路径// 建议使用 live2d_path 参数的绝对路径
+const live2d_path = 'https://github.com/fkyh404/live2d_api/tree/v1.0.0/';
 // const live2d_path = '/dist/';
 
 // Method to encapsulate asynchronous resource loading// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法// 用于封装异步资源加载的方法
 // 封装异步加载资源的方法
-function loadExternalResource(url, type) {函数 loadExternalResource(url, type类型) {函数 loadExternalResource加载外部资源(url网址, type类型) {函数loadExternalResource(url网址, type类型) {
+function loadExternalResource(url, type) {函数 loadExternalResource(url, type类型) {函数 loadExternalResource加载外部资源(url网址, type类型) {函数loadExternalResource(url网址, type类型) {函数 loadExternalResource(url, type) {函数loadExternalResource(url, type类型) {函数loadExternalResource加载外部资源(url网址, type类型) {函数loadExternalResource(url网址, type类型) {
   return返回 new新 Promise承诺((resolve解决, reject拒绝) => {返回 新 Promise((resolve, reject) => {
-    let tag;让 标签;
+    let tag;让 标签;让标签
 
     if (type类型 === 'css') {
-      tag = document.createElement('link');标签 = document.createElement('link');标签 = 文档.创建元素('链接');标签 = 文档.createElement('链接');
-      tag标签.rel关系 = 'stylesheet'“样式表”;标签.rel = 'stylesheet';
-      tag.href = url;标签.href = 网址;标签.href = url;标签.href = 网址;
+      tag = document.createElement('link');标签 = document.createElement('link');标签 = 文档.创建元素('链接');标签 = 文档.createElement('链接');标签 = document.createElement('link');标签 = document.createElement('link');标签 = 文档.创建元素('链接');标签 = 文档.createElement('链接');
+      tag标签.rel关系 = 'stylesheet'“样式表”;标签.rel关系 = 'stylesheet';标签.rel关系 = 'stylesheet'“样式表”;标签.rel = 'stylesheet';
+      tag.href = url;标签.href = 网址;标签.href = url;标签.href = 网址;标签.href = 网址;标签.href = 网址;标签.href = 网址;标签.href = 网址;
     }
     else if (type === 'js') {
       tag = document.createElement('script');
